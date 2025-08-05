@@ -49,7 +49,7 @@ Each folder contains images of a specific gesture.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/hand-gesture-recognition.git
+git clone https://github.com/Amritpal--nitj/hand-gesture-recognition.git
 cd hand-gesture-recognition
 ```
 
