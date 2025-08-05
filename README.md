@@ -7,7 +7,7 @@ This project demonstrates a real-time **hand gesture recognition system** using 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+
 
 ---
 
